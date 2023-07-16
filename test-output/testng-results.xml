@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-08T15:32:29 EDT" name="Suite" finished-at="2023-07-08T15:33:45 EDT" duration-ms="75811">
+    <groups>
+    </groups>
+    <test started-at="2023-07-08T15:32:29 EDT" name="Test" finished-at="2023-07-08T15:33:45 EDT" duration-ms="75811">
+      <class name="com.naveenautomationlabs.AutomationFramework.YourStoreTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:30 EDT" name="setUpLogger" finished-at="2023-07-08T15:32:30 EDT" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:30 EDT" name="setUp" finished-at="2023-07-08T15:32:35 EDT" duration-ms="5533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateClickingDisplayItemOnMainPageTakesToItemPage()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:35 EDT" name="validateClickingDisplayItemOnMainPageTakesToItemPage" finished-at="2023-07-08T15:32:44 EDT" duration-ms="9186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClickingDisplayItemOnMainPageTakesToItemPage -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:44 EDT" name="quit" finished-at="2023-07-08T15:32:45 EDT" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:45 EDT" name="setUp" finished-at="2023-07-08T15:32:50 EDT" duration-ms="4959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateDisplayImageIsMovingOnMainPage()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:50 EDT" name="validateDisplayImageIsMovingOnMainPage" finished-at="2023-07-08T15:32:53 EDT" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDisplayImageIsMovingOnMainPage -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:53 EDT" name="quit" finished-at="2023-07-08T15:32:53 EDT" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:53 EDT" name="setUp" finished-at="2023-07-08T15:32:58 EDT" duration-ms="4915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateFooterDisplayImagesMoving()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:32:58 EDT" name="validateFooterDisplayImagesMoving" finished-at="2023-07-08T15:33:02 EDT" duration-ms="3578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFooterDisplayImagesMoving -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:02 EDT" name="quit" finished-at="2023-07-08T15:33:02 EDT" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:03 EDT" name="setUp" finished-at="2023-07-08T15:33:08 EDT" duration-ms="4881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginUsingValidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:08 EDT" name="validateLoginUsingValidCredentials" data-provider="loginDataProvider" finished-at="2023-07-08T15:33:10 EDT" duration-ms="1957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tony@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginUsingValidCredentials -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:10 EDT" name="quit" finished-at="2023-07-08T15:33:10 EDT" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:10 EDT" name="setUp" finished-at="2023-07-08T15:33:15 EDT" duration-ms="4548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginUsingValidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:15 EDT" name="validateLoginUsingValidCredentials" data-provider="loginDataProvider" finished-at="2023-07-08T15:33:16 EDT" duration-ms="1760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manpreetkaur1991@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manpreetkaur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginUsingValidCredentials -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:16 EDT" name="quit" finished-at="2023-07-08T15:33:17 EDT" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:17 EDT" name="setUp" finished-at="2023-07-08T15:33:21 EDT" duration-ms="4629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginUsingValidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:21 EDT" name="validateLoginUsingValidCredentials" data-provider="loginDataProvider" finished-at="2023-07-08T15:33:23 EDT" duration-ms="1664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ryan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ChangePass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginUsingValidCredentials -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:23 EDT" name="quit" finished-at="2023-07-08T15:33:23 EDT" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:23 EDT" name="setUp" finished-at="2023-07-08T15:33:28 EDT" duration-ms="4767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginUsingValidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:28 EDT" name="validateLoginUsingValidCredentials" data-provider="loginDataProvider" finished-at="2023-07-08T15:33:30 EDT" duration-ms="1781" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jainrajat1234@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RAJATjain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginUsingValidCredentials -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:30 EDT" name="quit" finished-at="2023-07-08T15:33:30 EDT" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:30 EDT" name="setUp" finished-at="2023-07-08T15:33:35 EDT" duration-ms="4580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateWishListIsUpdated()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:35 EDT" name="validateWishListIsUpdated" finished-at="2023-07-08T15:33:38 EDT" duration-ms="3304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateWishListIsUpdated -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.YourStoreTest@c88a337]" started-at="2023-07-08T15:33:38 EDT" name="quit" finished-at="2023-07-08T15:33:38 EDT" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.naveenautomationlabs.AutomationFramework.YourStoreTest -->
+      <class name="com.naveenautomationlabs.AutomationFramework.LaptopsNotebookTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.LaptopsNotebookTest@37d4349f]" started-at="2023-07-08T15:33:38 EDT" name="setUpLogger" finished-at="2023-07-08T15:33:38 EDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.LaptopsNotebookTest@37d4349f]" started-at="2023-07-08T15:33:38 EDT" name="setUp" finished-at="2023-07-08T15:33:43 EDT" duration-ms="4681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateClickingOnListOfLaptopsNotebookGoTORespectivePage()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.LaptopsNotebookTest@37d4349f]" started-at="2023-07-08T15:33:43 EDT" name="validateClickingOnListOfLaptopsNotebookGoTORespectivePage" finished-at="2023-07-08T15:33:45 EDT" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateClickingOnListOfLaptopsNotebookGoTORespectivePage -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.naveenautomationlabs.AutomationFramework.LaptopsNotebookTest@37d4349f]" started-at="2023-07-08T15:33:45 EDT" name="quit" finished-at="2023-07-08T15:33:45 EDT" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.naveenautomationlabs.AutomationFramework.LaptopsNotebookTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
